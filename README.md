@@ -1,3 +1,6 @@
+📌 **Note:** A newer and improved version of this project is available at:  
+[https://github.com/TangSui122/Bi-temporal-Wildfire-Burnt-Area-Detection](https://github.com/TangSui122/Bi-temporal-Wildfire-Burnt-Area-Detection)
+
 # Project 
 
 Bi-temporal Convolutional Neural Network based on U-Net Architecture for Wildfire Burnt Area Detection.
@@ -25,4 +28,4 @@ The `BADMDataset_set.py` script initializes the dataset required for training an
 
 If you require access to the dataset or have any related inquiries, please feel free to reach out to me via email:
 
-Email: tangsui122@gmail.com
+Email: tsui5@wisc.edu
