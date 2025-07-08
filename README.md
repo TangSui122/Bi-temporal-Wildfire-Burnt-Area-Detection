@@ -1,5 +1,5 @@
 📌 **Note:** A newer and improved version of this project is available at:  
-[https://github.com/TangSui122/Bi-temporal-Wildfire-Burnt-Area-Detection](https://github.com/TangSui122/Bi-temporal-Wildfire-Burnt-Area-Detection)
+[https://github.com/scdmlab/Bi-temporal-Wildfire-Burnt-Area-Detection](https://github.com/scdmlab/Bi-temporal-Wildfire-Burnt-Area-Detection)
 
 # Project 
 
